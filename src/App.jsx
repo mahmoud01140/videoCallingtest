@@ -13,10 +13,7 @@ import {
 import '@stream-io/video-react-sdk/dist/css/styles.css';
 import './index.css';
 
-const apiKey = 'mmhfdzb5evj2';
-const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Byb250by5nZXRzdHJlYW0uaW8iLCJzdWIiOiJ1c2VyL0JldmVsX0Jyb3duaWUiLCJ1c2VyX2lkIjoiQmV2ZWxfQnJvd25pZSIsInZhbGlkaXR5X2luX3NlY29uZHMiOjYwNDgwMCwiaWF0IjoxNzY2OTI3NDcxLCJleHAiOjE3Njc1MzIyNzF9.rMg70gjlfhNIzvJQS_4vhqMVGcjT5bJq3_Z9BsxJvc0';
-const userId = 'Bevel_Brownie';
-const callId = '60eKGs1mzBenkQrFHX6gO';
+
 
 const user = {
   id: userId,
