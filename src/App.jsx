@@ -1,9 +1,6 @@
 import { CallingState, StreamCall, StreamVideo, StreamVideoClient, useCall, useCallStateHooks, StreamTheme, ParticipantView } from '@stream-io/video-react-sdk';
 import '@stream-io/video-react-sdk/dist/css/styles.css';
-const apiKey = 'mmhfdzb5evj2';
-const token = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Byb250by5nZXRzdHJlYW0uaW8iLCJzdWIiOiJ1c2VyL1Byb2Z1c2VfT2JzZXJ2YXRpb24iLCJ1c2VyX2lkIjoiUHJvZnVzZV9PYnNlcnZhdGlvbiIsInZhbGlkaXR5X2luX3NlY29uZHMiOjYwNDgwMCwiaWF0IjoxNzY2OTA2OTI4LCJleHAiOjE3Njc1MTE3Mjh9.VrYPKQyZMpkujNPR0t2ZkExST8r8SupyEOb4VdeTskw';
-const userId = 'Profuse_Observation';
-const callId = 'e1WRwT2sqCy8Lr8AXeP4m';
+
 
 // set up the user object
 const user = {
